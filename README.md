@@ -4,3 +4,8 @@ This code is for the tutorial on creating a real-time website analytics dashboar
 
 Check out the full tutorial at [coligo](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
 # real-time-dashboard
+
+Run
+´´´
+node app.js
+´´´
